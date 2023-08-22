@@ -63,7 +63,7 @@ Formularios que componen al **módulo de viáticos**:
 - Entrega de anticipo
 - Autorización de viáticos
 
-![Formas del módulo viáticos](formasModViaticos.png)
+![Formas del módulo viáticos](/imgs/Modulos/Viaticos/formasModViaticos.png)
 
 ### Catálogos
 ---
