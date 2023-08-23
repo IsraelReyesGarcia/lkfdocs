@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "337f9e2717727d9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "60e15fbbf8e292e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db91dbab032c9877",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.developer/3.2.Desarrollo de reportes/3.2.3.Configuración de servido.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e8bf06a9759b926c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4b85653997487d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f895cda48c1b8909",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3a3c9ce44da1bf56",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d7fa2dd235f10ed0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "67cae6e652c3bfce",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb66480be4774b9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5e7ad5bb2993e19",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3.developer/3.2.Desarrollo de reportes/3.2.3.Configuración de servido.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bc1558b46fd0d257",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3.developer/3.2.Desarrollo de reportes/3.2.3.Configuración de servido.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4b05b26eb734a434",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "aee08b4f256847f4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3.developer/3.2.Desarrollo de reportes/3.2.3.Configuración de servido.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir quick switcher": false,
+      "graph:Abrir vista de gráfico": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "db91dbab032c9877",
+  "lastOpenFiles": [
+    "3.developer/3.2.Desarrollo de reportes/3.2.2.Configuración de entorno.md",
+    "3.developer/3.2.Desarrollo de reportes/3.2.5.Backend/3.2.5.1.Desarrollo de Scripts.md",
+    "3.developer/3.2.imglkf/imgConfServido/2.png",
+    "3.developer/3.2.imglkf/imgConfServido/1.png",
+    "3.developer/3.2.imglkf/imgBack/6.png",
+    "3.developer/3.2.imglkf/imgBack/5.png",
+    "3.developer/3.2.imglkf/imgBack/4.png",
+    "3.developer/3.2.imglkf/imgBack/3.png",
+    "3.developer/3.2.imglkf/imgBack/2.png",
+    "3.developer/3.2.imglkf/imgBack/1.png",
+    "Pasted image 20230810152343.png.md",
+    "3.developer/3.2.Desarrollo de reportes/3.2.3.Configuración de servido.md",
+    "3.developer/3.2.Desarrollo de reportes/Errores.md",
+    "3.developer/3.2.Desarrollo de reportes/3.2.1.Bases de Linkaform.md",
+    "igmlkf/imgBack/2.png.md",
+    "1..md",
+    "igmlkf/imgBack/1.png.md",
+    "igmlkf/imgBack",
+    "igmlkf",
+    "README.md"
+  ]
+}
