@@ -83,22 +83,52 @@ Y solo resta esperar la confirmación exitosa de los registros.
 ![Mensaje de confirmación](/imgs/Modulos/Viaticos/catalogos/empleados/6-catalogo-empleados.png)
 Figura 11. Mensaje de confirmación "Registro exitoso".
 
-En la sección <span style="background: #F4F4F4F4"> Catálogos > Registros de catalogo > Catálogo de empleados</span> podrá consultar los registros que acaba de cargar.
+En la sección <span style="background: #0f1d4a; color: #FFFFFF"> Catálogos > Registros de catalogo > Catálogo de empleados</span> podrá consultar los registros que acaba de cargar.
 
 ![Ubicacion de la seccion para cargar  empleados](/imgs/Modulos/Viaticos/catalogos/empleados/7-catalogo-empleados.png)
 Figura 12. Catálogo de empleados con el nuevo lote cargado.
 
-
-
-
-
 ### 2. Cargar datos en el catálogo de moneda
 
+#### Configurar documento de Sheets
+---
+Antes de comenzar es necesario tener a la mano el link de su hoja de cálculo, este debe configurarse con **acceso a cualquiera que tenga el link.**
 
+Para ello, diríjase a su documento:
+* Presione <span style="background: #0f1d4a; color: #FFFFFF"> Compartir </span>;
+* En Acceso general, clic sobre <span style="background: #0f1d4a; color: #FFFFFF"> Cualquier  usuario que tenga el vínculo </span>;
+* Clic en<span style="background: #0f1d4a; color: #FFFFFF"> Copiar vínculo</span>.
 
+![Configuración inicial catálogo moneda](/imgs/Modulos/Viaticos/catalogos/moneda/1-moneda.png)
 
+>[!Nota]
+>Es importante mencionar que **MXN** y **mxn** en Linkaform son totalmente diferentes, por lo que es importante que use solo una nomenclatura para el manejo de moneda.
 
+#### Subir lista de monedas
+---
+1. Dirigirse a la sección de catálogos:
+	* Clic en la sección <span style="background: #0f1d4a; color: #FFFFFF"> Catálogos </span>;
+	* Ubicar el catálogo de Moneda;
+	* Clic en el ícono de <span style="background: #0f1d4a; color: #FFFFFF"> Engrane </span>;
+	* Seleccione la opción <span style="background: #0f1d4a; color: #FFFFFF"> Editar </span>;
 
+![Configuración inicial catálogo moneda](/imgs/Modulos/Viaticos/catalogos/moneda/2-moneda.png)
+
+Una vez realizado este proceso le aparecerá en pántalla lo siguiente.
+
+![Configuración inicial catálogo moneda](/imgs/Modulos/Viaticos/catalogos/moneda/3-moneda.png)
+
+2. Diríjase a:
+	* **Clic** en <span style="background: #0f1d4a; color: #FFFFFF"> Opciones </span>;
+	* **Seleccionar** <span style="background: #0f1d4a; color: #FFFFFF"> Opciones generales </span>;
+	* En la ventana emergente, **seleccionar** <span style="background: #0f1d4a; color: #FFFFFF"> Opciones avanzadas </span>;
+	* En **cargar Catálogo de Google Sheets**, pegar el enlace de su documento con los datos de la moneda a registrar.
+	* Clic en <span style="background: #0f1d4a; color: #FFFFFF"> Buscar columnas </span>;
+
+![Configuración inicial catálogo moneda](/imgs/Modulos/Viaticos/catalogos/moneda/3-moneda.png)
+
+>[!Nota]
+>Solo si su documento fue configurado correctamente tendrá activado el botón <span style="background: #00a135; color: #FFFFFF"> Agregar </span>;
 
 
 
