@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "88bb69fe0adce7ef",
+        "id": "60e15fbbf8e292e5",
         "type": "tabs",
         "children": [
           {
-            "id": "1dfc1d39acf1da3d",
+            "id": "db91dbab032c9877",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.developer/3.2.Desarrollo de reportes/3.2.5.Backend/3.2.5.1.Desarrollo de Scripts.md",
+                "file": "3.developer/3.2.Desarrollo de reportes/3.2.3.Configuración de servido.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.developer/3.2.Desarrollo de reportes/3.2.5.Backend/3.2.5.1.Desarrollo de Scripts.md",
+                "file": "3.developer/3.2.Desarrollo de reportes/3.2.3.Configuración de servido.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.developer/3.2.Desarrollo de reportes/3.2.5.Backend/3.2.5.1.Desarrollo de Scripts.md",
+                "file": "3.developer/3.2.Desarrollo de reportes/3.2.3.Configuración de servido.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.developer/3.2.Desarrollo de reportes/3.2.5.Backend/3.2.5.1.Desarrollo de Scripts.md"
+                "file": "3.developer/3.2.Desarrollo de reportes/3.2.3.Configuración de servido.md"
               }
             }
           }
@@ -146,15 +146,27 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "1dfc1d39acf1da3d",
+  "active": "db91dbab032c9877",
   "lastOpenFiles": [
-    "igmlkf/imgBack/2.png.md",
+    "3.developer/3.2.Desarrollo de reportes/3.2.2.Configuración de entorno.md",
     "3.developer/3.2.Desarrollo de reportes/3.2.5.Backend/3.2.5.1.Desarrollo de Scripts.md",
+    "3.developer/3.2.imglkf/imgConfServido/2.png",
+    "3.developer/3.2.imglkf/imgConfServido/1.png",
+    "3.developer/3.2.imglkf/imgBack/6.png",
+    "3.developer/3.2.imglkf/imgBack/5.png",
+    "3.developer/3.2.imglkf/imgBack/4.png",
+    "3.developer/3.2.imglkf/imgBack/3.png",
+    "3.developer/3.2.imglkf/imgBack/2.png",
+    "3.developer/3.2.imglkf/imgBack/1.png",
+    "Pasted image 20230810152343.png.md",
+    "3.developer/3.2.Desarrollo de reportes/3.2.3.Configuración de servido.md",
+    "3.developer/3.2.Desarrollo de reportes/Errores.md",
+    "3.developer/3.2.Desarrollo de reportes/3.2.1.Bases de Linkaform.md",
+    "igmlkf/imgBack/2.png.md",
     "1..md",
     "igmlkf/imgBack/1.png.md",
     "igmlkf/imgBack",
     "igmlkf",
-    "3.developer/3.2.Desarrollo de reportes/3.2.1.Bases de Linkaform.md",
     "README.md"
   ]
 }
