@@ -125,7 +125,7 @@ Una vez realizado este proceso le aparecerá en pántalla lo siguiente.
 	* En **cargar Catálogo de Google Sheets**, pegar el enlace de su documento con los datos de la moneda a registrar.
 	* Clic en <span style="background: #0f1d4a; color: #FFFFFF"> Buscar columnas </span>;
 
-![Configuración inicial catálogo moneda](/imgs/Modulos/Viaticos/catalogos/moneda/3-moneda.png)
+![Configuración inicial catálogo moneda](/img/viaticos/catalogos/moneda/3-moneda.png)
 
 >[!Nota]
 >Solo si su documento fue configurado correctamente tendrá activado el botón <span style="background: #00a135; color: #FFFFFF"> Agregar </span>;
