@@ -38,6 +38,7 @@ flowchart TB
     style form_registros_gastos_viajes fill:#40c057,stroke:#333,stroke-width:1px;
     style catalogo_solicitud_gastos fill:#228be6,stroke:#333,stroke-width:1px;
 ```
+
 ```mermaid
 flowchart  BT
 	%% Catalogos
