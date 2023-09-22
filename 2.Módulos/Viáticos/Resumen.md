@@ -13,19 +13,20 @@ flowchart TB
     %% Formularios
     form_solicitud_viaticos(#1 Solicitud de viáticos);
     form_autorizacion_viaticos(#3 Autorización de viáticos);
-    form_entrega_anticipo_efectivo(#1.1 Entrega de anticipo efectivo)
+    form_entrega_anticipo_efectivo(#1.1 Entrega de anticipo efectivo);
     form_registros_gastos_viajes(#2 Registro de gastos de viaje);
     %% form_reserva_viajes(Reserva de viajes);
     
-   %% Catalogos
+    %% Catalogos
     catalogo_solicitud_gastos([Solicitud de gastos]);
 
 
     %% Conexiones
     form_solicitud_viaticos == status = pendiente autorización <br> ó gasto = 0 ==> form_autorizacion_viaticos;
-    form_solicitud_viaticos -- status = autorizado --> form_entrega_anticipo_efectivo;
+    form_solicitud_viaticos == status = autorizado ==> form_entrega_anticipo_efectivo;
     form_entrega_anticipo_efectivo == status = autorizado <br> Actualiza ==> catalogo_solicitud_gastos;
-    %% form_solicitud_viaticos == status = autorizado  ==> catalogo_solicitud_gastos;
+
+	%% form_solicitud_viaticos == status = autorizado  ==> catalogo_solicitud_gastos;
 
     form_registros_gastos_viajes == Actualiza sets de gasto ==> form_solicitud_viaticos;
     form_registros_gastos_viajes == Monto actualizado - gasto ==> catalogo_solicitud_gastos;
@@ -53,12 +54,14 @@ flowchart  BT
 ```
 
 
-> [!NOTA]
+> **Nota**
 > los rectángulos en color azul representan los **módulos** y los de color verde representan los **formularios**.
 
 ### Formularios
 ---
+
 Formularios que componen al **módulo de viáticos**:
+
 - Registro de gastos de viaje
 - Solicitud de viáticos
 - Entrega de anticipo
@@ -69,7 +72,8 @@ Formularios que componen al **módulo de viáticos**:
 ### Catálogos
 ---
 Los **catálogos** que componen al módulo son:
+
 - Empleados
 - Moneda
 - Responsables de autorizar gastos
-- Solicitud de gastos
+- Solicitud de gastos.

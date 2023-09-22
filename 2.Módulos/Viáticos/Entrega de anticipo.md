@@ -1,6 +1,6 @@
 ## Entrega de anticipo
 
-En este apartado podrá consultar los  pasos necesarios para realizar la entrega de anticipo.
+En este apartado podrá consultar los  pasos necesarios para realizar la entrega de anticipo y cómo generar reportes en PDF.
 
 ### Cómo ubicar las formas de entrega de anticipo
 
@@ -84,3 +84,20 @@ Al clicar  en **Volver al registro**, los cambios relacionados con la **entrega 
 
 
 
+### Cómo generar reportes en PDF
+
+Dirigase a la sección de ``` Registros ``` o bien en ``` Mis formas > Modulo Viáticos > Entrega de efectivo > Ver registros ```, seleccione la solicitud que desea generar. Verá una pantalla como el que se muestra a continuación.
+
+
+![Autorizar gastos menú](/imgs/Modulos/Viaticos/forms/entregar-anticipo/12-entregar-anticipo.png)
+
+
+
+Para generar su archivo en formato PDF haga clic en el ícono de la hoja blanco, a continuación se le mostrara una ventana para guardar su archivo con el nombre que desee.
+
+![Autorizar gastos menú](/imgs/Modulos/Viaticos/forms/entregar-anticipo/13-entregar-anticipo.png)
+
+>**Importante**
+>
+> + El nombre por defecto del archivo corresponde al de la forma.
+> + Si su navegador no abre ninguna ventana al clickar el ícono del PDF, revise la sección de descargas en su navegador de archivos.
