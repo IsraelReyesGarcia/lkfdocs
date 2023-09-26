@@ -164,3 +164,24 @@ En **Key** podrá seleccionar alguna columna de su hoja de cálculo
 
 
 ### 3. Cargar datos de responsables de autorizar gastos
+
+1. Dirigase a ```Catalogos > Responsables de autorizar gastos```;
+
++ Clic en el ícono de responder.
+
+![Configuración inicial catálogo responsables de autorizar gastos](/imgs/Modulos/Viaticos/catalogos/responsables-autorizar-gastos/1-responsables-autorizar-gastos.png)
+
+
+2. Indique el nombre y el correo electrónico en los campos correspondientes. Después haga clic en **Mandar respuestas**.
+
+![Configuración inicial catálogo responsables de autorizar gastos](/imgs/Modulos/Viaticos/catalogos/responsables-autorizar-gastos/2-responsables-autorizar-gastos.png)
+
+Una vez realizado este paso, podrá ver en pantalla un mensaje de confirmación, como el que se muestra a continuación.
+
+
+![Configuración inicial catálogo responsables de autorizar gastos](/imgs/Modulos/Viaticos/catalogos/responsables-autorizar-gastos/2-1-responsables-autorizar-gastos.png)
+
+
+Ahora podrá ver en el campo de autorizadores de gastos al nuevo usuario que acaba de crear.
+
+![Configuración inicial catálogo responsables de autorizar gastos](/imgs/Modulos/Viaticos/catalogos/responsables-autorizar-gastos/3-responsables-autorizar-gastos.png)

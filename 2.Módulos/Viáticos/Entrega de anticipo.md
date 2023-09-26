@@ -102,4 +102,6 @@ Para generar su archivo en formato PDF haga clic en el ícono de la hoja blanco,
 > + El nombre por defecto del archivo corresponde al de la forma.
 > + Si su navegador no abre ninguna ventana al clickar el ícono del PDF, revise la sección de descargas en su navegador de archivos.
 
-COMPLEMENTAR PANTALLA DEL PDF FINAL
+Como resultado obtendrá un archivo en PDF como el que se muestra a continuación.
+
+![Autorizar gastos menú](/imgs/Modulos/Viaticos/forms/entregar-anticipo/14-entregar-anticipo.png)
