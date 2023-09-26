@@ -101,3 +101,5 @@ Para generar su archivo en formato PDF haga clic en el ícono de la hoja blanco,
 >
 > + El nombre por defecto del archivo corresponde al de la forma.
 > + Si su navegador no abre ninguna ventana al clickar el ícono del PDF, revise la sección de descargas en su navegador de archivos.
+
+COMPLEMENTAR PANTALLA DEL PDF FINAL

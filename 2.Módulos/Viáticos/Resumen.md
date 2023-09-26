@@ -62,7 +62,7 @@ flowchart  BT
 
 Formularios que componen al **módulo de viáticos**:
 
-- Registro de gastos de viaje
+- Registro de gastos
 - Solicitud de viáticos
 - Entrega de anticipo
 - Autorización de viáticos
